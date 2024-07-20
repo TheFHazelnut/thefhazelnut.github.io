@@ -9,4 +9,3 @@ title: Game Developer Portfolio
 
 Julian Riley has been making games for about 4 years, specializing in programming and design
 
-![Image](_images/GoodDog.jpg)
