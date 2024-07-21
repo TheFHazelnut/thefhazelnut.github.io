@@ -1,3 +1,7 @@
 main:
+  #- title: "Home"
+    #url: /
+  - title: "Portfolio"
+    url: /
   - title: "About"
-    url: /_pages/about.html
+    url: /about/

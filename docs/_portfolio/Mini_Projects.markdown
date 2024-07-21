@@ -1,15 +1,23 @@
 ---
 layout: single
-title: About
-permalink: /about/
-author_profile: false
+title: Prototypes and Mini Projects
+header:
+    teaser: /images/MainMenu.png
 ---
 
 
-Julian Riley is a game developer from Florida whose passion lies in crafting fun and enthralling games. He has been working on game development for 4 years, becoming thorouhgly familiar with Unity and Blender, and is currently studying and using Unreal Engine 5. He has a background in Computer Science and Digital Arts.
+## Tower Defense Prototype
+![image](/images/GoodDog.jpg)
+Here's some text talking about how ridiculously handsome the creator is
 
+## First Person Puzzle Game Prototype
+![image](/images/GoodDog.jpg)
+Further text elaborating on the extraordinary handsomeness of the programmer
 
-![image-center](/images/GoodDog.jpg)
+## First Person Movement Demo
+![image](/images/GoodDog.jpg)
+I cannot believe this man is THAT good looking thats actually insane
+
 
 
 
