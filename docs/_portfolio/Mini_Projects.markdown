@@ -2,7 +2,7 @@
 layout: single
 title: Prototypes and Mini Projects
 header:
-    teaser: /images/GoodDog.png
+    teaser: /images/GoodDog.jpg
 ---
 
 

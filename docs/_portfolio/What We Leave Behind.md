@@ -2,7 +2,7 @@
 title: "What We Leave Behind"
 header:
     image: /images/Beholder1921.png
-    teaser: /images/GoodDog.png
+    teaser: /images/GoodDog.jpg
 sidebar:
     - title: "Role"
       image: http://placehold.it/350x250
