@@ -13,13 +13,13 @@ sidebar:
 
 gallery:
     - url: /images/MainMenu.png
-      image_path: /images/MainMenu.png
+      image_path: /images/GoodDog.jpg
       alt: "image 1"
     - url: /images/MainMenu.png
-      image_path: /images/MainMenu.png
+      image_path: /images/GoodDog.jpg
       alt: "image 2"
     - url: /images/MainMenu.png
-      image_path: /images/MainMenu.png
+      image_path: /images/GoodDog.jpg
       alt: "image 3"
 
 ---
