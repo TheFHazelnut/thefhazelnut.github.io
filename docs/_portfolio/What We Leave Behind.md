@@ -2,7 +2,7 @@
 title: "What We Leave Behind"
 header:
     image: /images/Beholder1921.png
-    teaser: /images/MainMenu.png
+    teaser: /images/GoodDog.png
 sidebar:
     - title: "Role"
       image: http://placehold.it/350x250
@@ -23,8 +23,7 @@ gallery:
 
 ---
 
-This game was worked on by a very handsome man who loves video games and it is currently no longer being developed because it is pretty much finished but it should be known that the man is still quite handsome indeed. The most handsome man in all the land one might even say if they had any sense in their head at all. In fact, now that I'm thinking about it, I don't think that I have ever in my life met someone as handsome as that man it is genuinely quite staggering indeed
+What We Leave Behind is a survival action horror game that I am currently working on. I wanted to create a game with a further emphasis on story, while also creating a more slow and methodical experience than my other games. I've additionally been using it as an opportunity to learn the workings of Unreal Engine 5. 
+{% include gallery caption ="Some progress pics" %}
 
-{% include gallery caption ="Here are handsome photos of his remarkably handsome game" %}
-
-He is beautiful.
+This is the first game where I decided that I wanted to use outside assets because I really wanted to focus on just learning programming and getting to grips with the engine itself. I did, however want to go with a PS1 aesthetic, but was unable to really find assets that matched that aesthetic, so I went ahead and used some asset packs that I already had, and then applied a screen shader to reduce the resolution and fake the look I wanted. The hardest part so far was configuring a system for openable containers (desks, drawers, cabinests, etc...) but now that that's behind me, I'm working on inventory setup before I move on to some puzzle work.

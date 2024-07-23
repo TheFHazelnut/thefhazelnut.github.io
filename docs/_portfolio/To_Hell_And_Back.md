@@ -2,7 +2,7 @@
 title: "To Hell And Back"
 header:
     image: /images/Beholder1921.png
-    teaser: /images/MainMenu.png
+    teaser: /images/GoodDog.png
 sidebar:
     - title: "Role"
     - image: http://placehold.it/350x250
