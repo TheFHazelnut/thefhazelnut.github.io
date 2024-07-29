@@ -24,8 +24,8 @@ gallery:
 
 ---
 
-This game was worked on by a very handsome man who loves video games and it is currently no longer being developed because it is pretty much finished but it should be known that the man is still quite handsome indeed. The most handsome man in all the land one might even say if they had any sense in their head at all. In fact, now that I'm thinking about it, I don't think that I have ever in my life met someone as handsome as that man it is genuinely quite staggering indeed
+This was one of the first game titles that I had worked on for a game jam back in 2021. The idea was that me and a friend wanted to create a game that was similar (if not a direct clone) of the original Doom, in order to get more familiar with the Unity engine, and for the purpose of completing a game jam to have a somewhat finished product, even if was essentially a prototype.
 
-{% include gallery caption ="Here are handsome photos of his remarkably handsome game" %}
+{% include gallery caption ="Some screenshots from the game" %}
 
-He is beautiful.
+I did programming for the pistol and shotgun weapons, along with the ammo systems and movement. The codebase itself is incredibly messy and most of the weapon programming was done in the same place as the movement and interacting and blah blah blah it was pretty bad. But it was a good learning experience for just scrapping whatever I knew how to do at the time into a cohesive, (mostly) functioning game. 
