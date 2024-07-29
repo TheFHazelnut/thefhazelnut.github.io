@@ -21,8 +21,8 @@ gallery:
 
 ---
 
-This game was worked on by a very handsome man who loves video games and it is currently no longer being developed because it is pretty much finished but it should be known that the man is still quite handsome indeed. The most handsome man in all the land one might even say if they had any sense in their head at all. In fact, now that I'm thinking about it, I don't think that I have ever in my life met someone as handsome as that man it is genuinely quite staggering indeed
+To Hell and Back is a 2D top down roguelike wave based shooter (a mouthful) about a knight fending off hordes and hordes of demons. This game was directly inspired by the likes of Risk of Rain and Vampire Survivors. The player receives various items at the end of waves and after killing bosses that give them some unique benefit. Stacks of different items will further empower their effects, which will be needed to fight enemies that get increasingly tough as the game goes on.
 
-{% include gallery caption ="Here are handsome photos of his remarkably handsome game" %}
+{% include gallery caption ="Isn't it great" %}
 
-He is beautiful.
+This was a game that I worked on for a semseter of class as a solo dev. I created all the art, did all the programming, and also designed the entire game. The outside assets used were for all the various sound effects in the game. Making this game was a real test of how well I could make a modular system for both the entities and the items, since there were so many items with vastly differing effects. I ended up using a lot of inheritance and careful GameObject placement to make the system work, and in the end, I'm very proud of what I was able to make here. The codebase could still be improved, but for the most part, works really well, as I could even now go back and add more items relatively quickly and easily without having to scour the entire codebase. Coding singular and stacking functionality is easily implementable, and new enemy types can also be added pretty simply. I consider this my magnum opus as of right now I guess, and it was so much fun to make. 
