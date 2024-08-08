@@ -28,11 +28,12 @@ This was the latest full title that I had worked on. It was a team of me and 4 o
 
 {% include gallery caption ="Some screenshots of the game" %}
 
-I was designated to do direct this game, along with doing all gameplay programming, room designs, and UI programming, while the other programmer was tasked with working on all the room generation to factor in the roguelike nature to the game. On the programming side of things, working with procedural generation in mind proved to be more of a challenge than originally anticipated, as there were many factors to consider when writing enemy behavior in addition to the way that I designed rooms (given that the player was able to come from any of 4 entrances to a room).
+I was designated to direct this game, along with doing all gameplay programming, room designs, and UI programming, while the other programmer was tasked with working on all the room generation to factor in the roguelike nature to the game. On the programming side of things, working with procedural generation in mind proved to be more of a challenge than originally anticipated, as there were many factors to consider when writing enemy behavior in addition to the way that I designed rooms (given that the player was able to come from any of 4 entrances to a room).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--O92k8VpwU?si=A346jg9w_bhhM3-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In the end it to wasn't too bad overall and was generally fun to create, but towards the end/rush of the project I could feel my code start to get a little sloppy, which wasn't good. But there were days where I would just sit down and work on the game for 12+ hours because it was genuinely just really fun to see everything come together.
 
 ### <a href="https://christianmlep.itch.io/deep-blue-hell"> Itch.io Page </a>
+
 

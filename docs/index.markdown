@@ -1,7 +1,5 @@
 ---
 title: Game Developer Portfolio
-header:
-    image: /images/GoodDog.jpg
 layout: collection
 permalink: /
 collection: portfolio
